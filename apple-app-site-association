@@ -1,7 +1,13 @@
 {  
-    "activitycontinuation": {
-        "apps": [
-                 "75378529F4.jp.neoscorp.com.nttdocomo.PhotoCollection"
-                 ]
-    }
+    "applinks": {
+        "apps": [],
+        "details": [
+                    {
+                    "appID": "75378529F4.jp.neoscorp.com.nttdocomo.PhotoCollection",
+                    "paths": [
+                              "[*]"
+                              ]
+                    }  
+                    ]  
+    }  
 }
